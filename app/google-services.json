@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762220549493",
+    "project_id": "kingstreinos-38d61",
+    "storage_bucket": "kingstreinos-38d61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762220549493:android:ab4e94449fd99560946f3c",
+        "android_client_info": {
+          "package_name": "com.example.kingstreinos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1vlzDWdD25P0QoMr4K3yGFdSOKJpk8P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
